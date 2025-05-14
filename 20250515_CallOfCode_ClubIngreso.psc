@@ -4,8 +4,8 @@ Algoritmo clubIngreso
 	
 	Para i<-1 Hasta 10 Hacer
 		Escribir "ingrese su nombre y su edad"
-		Leer nombre,edad
+		Leer nombre, edad;
 	FinPara
 	
-	// Matias vos mostra los que ingresaron y los rechazados acá
+	// Matias vos mostra los que ingresaron y los rechazados acÃ¡
 FinAlgoritmo
